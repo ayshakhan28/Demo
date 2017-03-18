@@ -1,1 +1,1 @@
-This is my second commit and I would like to keep it this way.
+I am enjoying all videos on Git tutorial.
