@@ -1,3 +1,4 @@
-I am Aysha and I am learning Git and Github.
+I am Aysha and I am learning Git.
 I understand what's going here and it is interesting so far..
+Why didn't I learn this before??
 
