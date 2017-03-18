@@ -1,1 +1,3 @@
-I am Aysha and I am learning Git and Github.This is our first commit.
+I am Aysha and I am learning Git and Github.
+I understand what's going here and it is interesting so far..
+
